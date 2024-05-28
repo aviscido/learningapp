@@ -1,0 +1,7 @@
+C:\data\projects\az204\demo1\avcloudstuff\bin\Publish\avcloudstuff.exe
+C:\data\projects\az204\demo1\avcloudstuff\bin\Publish\appsettings.Development.json
+C:\data\projects\az204\demo1\avcloudstuff\bin\Publish\appsettings.json
+C:\data\projects\az204\demo1\avcloudstuff\bin\Publish\avcloudstuff.dll
+C:\data\projects\az204\demo1\avcloudstuff\bin\Publish\avcloudstuff.deps.json
+C:\data\projects\az204\demo1\avcloudstuff\bin\Publish\avcloudstuff.runtimeconfig.json
+C:\data\projects\az204\demo1\avcloudstuff\bin\Publish\avcloudstuff.pdb
